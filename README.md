@@ -5,10 +5,10 @@ A simple machine learning API that predicts the **sentiment of news headlines** 
 - Classifies sentiment using `LogisticRegression`
 - Served as a REST API with **FastAPI**
 >>>>  Tech Stack
-Python 
-scikit-learn
-FastAPI
-joblib
-pandas
+- Python 
+- scikit-learn
+- FastAPI
+- joblib
+- pandas
 >>>>Author
-Built by Arios7069646873656D65
+- Built by Arios7069646873656D65
